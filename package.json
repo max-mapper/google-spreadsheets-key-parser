@@ -1,0 +1,14 @@
+{
+  "name": "google-spreadsheets-key-parser",
+  "version": "1.0.0",
+  "description": "parses keys out of google spreadsheet urls",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tape": "^2.13.1"
+  }
+}
