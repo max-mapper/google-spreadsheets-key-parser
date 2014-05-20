@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "tape": "^2.13.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxogden/google-spreadsheets-key-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maxogden/google-spreadsheets-key-parser/issues"
+  },
+  "homepage": "https://github.com/maxogden/google-spreadsheets-key-parser"
 }
