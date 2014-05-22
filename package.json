@@ -6,6 +6,9 @@
   "scripts": {
     "test": "node test.js"
   },
+  "bin": {
+    "google-spreadsheets-key-parser": "cli.js"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
