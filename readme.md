@@ -13,3 +13,20 @@ var parsed = parser('https://docs.google.com/spreadsheets/d/1jHY4wO4b0kuX4rVnJgZ
 ```
 
 works for new and old sheets. `isNewSheets` will be true if it's new sheets, false if it's old sheets
+
+## CLI
+
+You can also use it as a CLI app by installing it globally:
+
+```bash
+$ npm install --global google-spreadsheets-key-parser
+```
+
+#### Usage
+
+```bash
+$ google-spreadsheets-key-parser --help
+
+Usage
+  $ google-spreadsheets-key-parser <url>
+```
