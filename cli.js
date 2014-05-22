@@ -21,4 +21,4 @@ if (process.argv.indexOf('-v') !== -1 || process.argv.indexOf('--version') !== -
   return;
 }
 
-console.log(parser(input));
+console.log(JSON.stringify(parser(input)));
